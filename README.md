@@ -24,7 +24,7 @@ costs, and fills capped by each option's traded volume.
 *Updated automatically by each day's run. Failed days: 0. Every row: [records/daily.csv](records/daily.csv).*
 <!-- live:end -->
 
-![backtest](records/backtest.png)
+![performance](records/performance.png)
 
 ## How it runs
 
