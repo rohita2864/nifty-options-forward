@@ -19,7 +19,7 @@ costs, and fills capped by each option's traded volume.
 <!-- live:start -->
 | Live since | Days valued | Account (paper, Rs) | Return since go-live | Last result | Latest fingerprint |
 |---|---|---|---|---|---|
-| 05 Nov 2026 | 6 | 10,012,090 | +0.12% | +0.06% (2026-11-13 book, valued 2026-11-16) | `039f1ed42f97...` decided 2026-11-16 at 15:14:36 IST |
+| 05 Nov 2026 | 7 | 10,014,579 | +0.15% | +0.02% (2026-11-16 book, valued 2026-11-17) | `2837f162ae87...` decided 2026-11-17 at 15:14:37 IST |
 
 *Updated automatically by each day's run. Failed days: 0. Every row: [records/daily.csv](records/daily.csv).*
 <!-- live:end -->
